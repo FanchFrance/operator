@@ -1,2 +1,0 @@
-# operator
-Created with CodeSandbox
